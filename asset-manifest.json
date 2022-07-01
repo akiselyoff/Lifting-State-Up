@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Lifting-State-Up/static/css/main.7acaea2f.css",
-    "main.js": "/Lifting-State-Up/static/js/main.07d3183d.js",
+    "main.js": "/Lifting-State-Up/static/js/main.3c9dbed3.js",
     "index.html": "/Lifting-State-Up/index.html",
     "main.7acaea2f.css.map": "/Lifting-State-Up/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Lifting-State-Up/static/js/main.07d3183d.js.map"
+    "main.3c9dbed3.js.map": "/Lifting-State-Up/static/js/main.3c9dbed3.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.3c9dbed3.js"
   ]
 }
